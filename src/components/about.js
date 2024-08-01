@@ -7,13 +7,13 @@ function about() {
         <span className="font-medium">VP of Learning & Community</span> at <a href="https://flatironschool.com/" target="_blank" rel="noreferrer" className='text-color-normal hover:underline'>Flatiron School</a>. (Check out the <a href="https://www.bletchley.org/" target="_blank" rel="noreferrer" className='text-color-normal hover:underline'>industry community</a> we’re building for technologists and creatives.)
       </p>
       <p className="p-2 sm:p-4 text-start">
-        <span className="font-medium">Strategic meeting designer</span> at <a href="http://Meetinglab.co" target="_blank" rel="noreferrer" className='text-color-normal hover:underline'>Meeting Lab</a>. Ask me about leveling up your next high stakes meeting (offsites, team retreats, conferences)
+        <span className="font-medium">Strategic meeting designer</span> at <a href="http://Meetinglab.co" target="_blank" rel="noreferrer" className='text-color-normal hover:underline'>Meeting Lab</a>. 
       </p>
       <p className="p-2 sm:p-4 text-start">
         <span className="font-medium">Workshop Facilitator & Speaker</span>. <a href="https://www.withconfetti.com/product/virtual-communication-skills-workshop" target="_blank" rel="noreferrer" className='text-color-normal hover:underline'>How to Ask Better Questions</a> is a favorite session created  to stick.
       </p>
       <p className="p-2 sm:p-4 text-start">
-        <span className="font-medium">Executive Coach</span>. Everyone needs a <a href="https://flatironschool.com/blog/a-career-coach-in-your-corner/" target="_blank" rel="noreferrer" className='text-color-normal hover:underline'>coach in your corner</a>.
+        <span className="font-medium">Executive Coach</span>.
       </p>
       <p className="p-2 sm:p-4 text-start">
         <a href="https://medium.com/@meetinglab/what-is-a-jeffersonian-dinner-9f26b163c6fd" target="_blank" rel="noreferrer" className='text-color-normal hover:underline'>Dinner party host</a> and <a href="https://medium.com/@meetinglab" target="_blank" rel="noreferrer" className='text-color-normal hover:underline'>aspiring author</a>.
