@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
   return(
     <div>
-      <footer className="fixed bottom-0 mx-auto place-content-center justify-center p-4 w-full bg-gray-800">
+      <footer className="sm:fixed bottom-0 mx-auto place-content-center justify-center p-4 w-full bg-gray-800">
         <div className="text-sm sm:text-base justify-center text-center text-white">
         Say hello. If Mollie can’t help you, she probably knows someone who can!
         </div>
